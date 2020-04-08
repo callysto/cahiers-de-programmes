@@ -1,36 +1,22 @@
-## Instructional Material
+## Matériel pédagogique
 
-All Callysto™ instructional material is made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
+Tout le matériel pédagogique de Callysto est mis à disposition sous la [licence Creative Commons Attribution](https://creativecommons.org/licenses/by/3.0/fr). C'est un résumé (et non pas un substitut) de la [license](https://creativecommons.org/licenses/by/3.0/fr/legalcode.fr).
 
-You are free:
+## Vous êtes autorisé à :
 
-* to **Share** - copy and redistribute the material in any medium or format
-* to **Adapt** - remix, transform, and build upon the material for any purpose, even commercially.
+**Partager** — copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+**Adapter** — remixer, transformer et créer à partir du matériel
+pour toute utilisation, y compris commerciale.
 
-Under the following terms:
+L'Offrant ne peut retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
-* **Attribution** - You must give appropriate credit (indicating that your work is derived from Copyright © 2018 Callysto and the [source](www.callysto.ca), provide a [link to the license](https://creativecommons.org/licenses/by/4.0/), and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+## Selon les conditions suivantes :
 
-**No additional restrictions** - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  
+**Attribution** — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
 
-**Notices**:
+**Pas de restrictions complémentaires** — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
 
-* You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+## Marque déposée
 
-* No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
-## Software
-
-Except where otherwise noted, the example programs and other software provided by Callysto are made available under the [Open Source Initiative](https://opensource.org)-approved [MIT license](https://opensource.org/licenses/mit-license.html).
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## Trademark
-
-Callysto and its logo are trademarks of [Cybera](www.cybera.ca) and [the Pacific Institute of Mathematical Sciences](www.pims.math.ca/).
+Callysto et son logo sont des marques déposées de [Cybera](https://cybera.ca) et le [Pacific Institute of Mathematical Sciences](https://pims.math.ca/).
